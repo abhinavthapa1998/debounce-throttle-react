@@ -1,2 +1,1 @@
-# Implementing with useDebounce and useThrottle Hooks
-Created with CodeSandbox
+# Implementing useDebounce and useThrottle Hooks
